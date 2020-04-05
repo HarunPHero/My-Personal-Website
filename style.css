@@ -1,0 +1,32 @@
+span{
+    color: hotpink;
+    font-size: 40px;
+}
+.name-pic{
+     width: 40%;
+     float: left;
+     margin-left: 5%;
+     padding-left: 2%;
+}
+.name-pic img{
+             width: 100%;
+}
+.first{
+      background-image: url(images/header-bg.png);
+      
+      height: 600px;
+}
+.second{
+       background-image: url(images/biography-bg.png);
+       height: 600px;
+       margin-top: 50px;
+}
+.biopic{
+       width: 40%;
+       float: left;
+       margin-left: 5%;
+       padding-left: 2%;
+}
+.biopic img{
+          width: 100%;
+}
